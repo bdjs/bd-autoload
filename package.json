@@ -13,7 +13,7 @@
     "autoload",
     "bd-autoload"
   ],
-  "author": "mdemo",
+  "author": "blued-fe",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bdjs/bd-autoload/issues"
